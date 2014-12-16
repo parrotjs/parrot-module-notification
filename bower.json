@@ -1,10 +1,14 @@
 {
-  "name": "parrot-boilerplate",
-  "description": "Basic scaffold for create a parrot module.",
-  "version": "0.12.14",
+  "name": "parrot-module-notification",
+  "description": "Interact with HTML5 Notifications. It makes easy to reuse notifications.",
+  "version": "0.12.16",
   "authors": [
     "Kiko Beats <josefrancisco.verdu@gmail.com>"
   ],
+  "devDependencies": {
+    "parrotjs": "*"
+  },
+  "homepage": "https://github.com/parrotjs/parrot-module-notification",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -12,9 +16,8 @@
     "test",
     "tests"
   ],
-  "homepage": "https://github.com/parrotjs/parrot-boilerplate",
   "keywords": [],
   "license": "MIT",
-  "main": "dist/parrot-boilerplate.js",
-  "repository": "parrotjs/parrot-boilerplate"
+  "main": "dist/parrot.notification.js",
+  "repository": "parrotjs/parrot-module-notification"
 }
