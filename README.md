@@ -2,6 +2,7 @@
 
 [![Dependency status](http://img.shields.io/david/parrotjs/Parrotjs.svg?style=flat)](https://david-dm.org/parrotjs/parrot-module-notification)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/parrotjs/parrot-module-notification.svg?style=flat)](https://david-dm.org/parrotjs/parrot-module-notification#info=devDependencies)
+[![Gittip](http://img.shields.io/gittip/Kikobeats.svg?style=flat)](https://www.gittip.com/Kikobeats/)
 
 > Interact with HTML5 Notifications. It makes easy to reuse notifications.
 
