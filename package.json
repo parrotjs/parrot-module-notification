@@ -25,7 +25,11 @@
     "node": "*"
   },
   "homepage": "https://github.com/parrotjs/parrot-module-notification",
-  "keywords": [],
+  "keywords": [
+    "parrot",
+    "module",
+    "notification"
+  ],
   "license": "MIT",
   "main": "./index.js",
   "repository": "parrotjs/parrot-module-notification"

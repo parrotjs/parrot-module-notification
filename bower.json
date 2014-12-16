@@ -16,7 +16,11 @@
     "test",
     "tests"
   ],
-  "keywords": [],
+  "keywords": [
+    "parrot",
+    "module",
+    "notification"
+  ],
   "license": "MIT",
   "main": "dist/parrot.notification.js",
   "repository": "parrotjs/parrot-module-notification"
