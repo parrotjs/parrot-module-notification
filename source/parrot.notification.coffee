@@ -32,7 +32,6 @@ do ->
           delete opts.title
           new Notification title, opts
         catch e
-          console.log e
           throw new Error "Notification API is not available."
 
       return _createNotification options unless name?
